@@ -1,4 +1,4 @@
-# Using supervised learning image analysis to predict inequality measures Sub-Saharan Africa
+# Using supervised learning image analysis to predict inequality measures in Sub-Saharan Africa
 
 For my thesis I will be analyzing raster images and associated metadata from NASA satellite imagery databases. My goal will be to show how investing in agriculture can improve inequality while filling in historical and present-day data gaps in Sub-Saharan Africa.
 
